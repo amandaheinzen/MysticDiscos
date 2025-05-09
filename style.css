@@ -1,4 +1,14 @@
 .cabecalho{
     background-color: rgb(118, 142, 223);
     color:rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    padding: 240px 0;
+    font-size: 50px;
+}
+.cabecalhoListaItem{
+display:inline-block;
+margin: 0 120px;
+padding: 78px 0;
+
 }
